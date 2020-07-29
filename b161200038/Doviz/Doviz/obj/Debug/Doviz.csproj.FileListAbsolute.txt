@@ -1,0 +1,68 @@
+c:\users\x\documents\visual studio 2015\Projects\Doviz\Doviz\bin\Debug\Doviz.exe.config
+C:\Users\X\documents\visual studio 2015\Projects\Doviz\Doviz\bin\Debug\Doviz.exe
+C:\Users\X\documents\visual studio 2015\Projects\Doviz\Doviz\bin\Debug\Doviz.pdb
+C:\Users\X\documents\visual studio 2015\Projects\Doviz\Doviz\obj\Debug\Doviz.csprojResolveAssemblyReference.cache
+C:\Users\X\documents\visual studio 2015\Projects\Doviz\Doviz\obj\Debug\Doviz.Form1.resources
+C:\Users\X\documents\visual studio 2015\Projects\Doviz\Doviz\obj\Debug\Doviz.Properties.Resources.resources
+C:\Users\X\documents\visual studio 2015\Projects\Doviz\Doviz\obj\Debug\Doviz.csproj.GenerateResource.Cache
+C:\Users\X\documents\visual studio 2015\Projects\Doviz\Doviz\obj\Debug\Doviz.exe
+C:\Users\X\documents\visual studio 2015\Projects\Doviz\Doviz\obj\Debug\Doviz.pdb
+C:\Users\X\documents\visual studio 2015\Projects\Doviz\Doviz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\X\documents\visual studio 2015\Projects\Doviz\Doviz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\X\documents\visual studio 2015\Projects\Doviz\Doviz\obj\Debug\Doviz.DovizCevirici.resources
+C:\Users\X\documents\visual studio 2015\Projects\Doviz\Doviz\obj\Debug\Doviz.Grafik.resources
+C:\Users\X\documents\visual studio 2015\Projects\Doviz\Doviz\obj\Debug\Doviz.GecmisKurlar.resources
+C:\Users\X\documents\visual studio 2015\Projects\Doviz\Doviz\obj\Debug\Doviz.Dolar.resources
+C:\Users\X\documents\visual studio 2015\Projects\Doviz\Doviz\obj\Debug\Doviz.Euro.resources
+C:\Users\X\documents\visual studio 2015\Projects\Doviz\Doviz\obj\Debug\Doviz.Pound.resources
+C:\Users\X\Desktop\Doviz\Doviz\bin\Debug\Doviz.exe.config
+C:\Users\X\Desktop\Doviz\Doviz\obj\Debug\Doviz.exe
+C:\Users\X\Desktop\Doviz\Doviz\obj\Debug\Doviz.pdb
+C:\Users\X\Desktop\Doviz\Doviz\bin\Debug\Doviz.exe
+C:\Users\X\Desktop\Doviz\Doviz\bin\Debug\Doviz.pdb
+C:\Users\X\Desktop\Doviz\Doviz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\X\Desktop\Doviz\Doviz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\X\Desktop\Doviz\Doviz\obj\Debug\Doviz.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\Doviz\Doviz\obj\Debug\Doviz.Dolar.resources
+C:\Users\X\Desktop\Doviz\Doviz\obj\Debug\Doviz.DovizCevirici.resources
+C:\Users\X\Desktop\Doviz\Doviz\obj\Debug\Doviz.Euro.resources
+C:\Users\X\Desktop\Doviz\Doviz\obj\Debug\Doviz.Form1.resources
+C:\Users\X\Desktop\Doviz\Doviz\obj\Debug\Doviz.GecmisKurlar.resources
+C:\Users\X\Desktop\Doviz\Doviz\obj\Debug\Doviz.Grafik.resources
+C:\Users\X\Desktop\Doviz\Doviz\obj\Debug\Doviz.Pound.resources
+C:\Users\X\Desktop\Doviz\Doviz\obj\Debug\Doviz.Properties.Resources.resources
+C:\Users\X\Desktop\Doviz\Doviz\obj\Debug\Doviz.csproj.GenerateResource.Cache
+C:\Users\X\Desktop\b161200038\Doviz\Doviz\bin\Debug\Doviz.exe.config
+C:\Users\X\Desktop\b161200038\Doviz\Doviz\obj\Debug\Doviz.exe
+C:\Users\X\Desktop\b161200038\Doviz\Doviz\obj\Debug\Doviz.pdb
+C:\Users\X\Desktop\b161200038\Doviz\Doviz\bin\Debug\Doviz.exe
+C:\Users\X\Desktop\b161200038\Doviz\Doviz\bin\Debug\Doviz.pdb
+C:\Users\X\Desktop\b161200038\Doviz\Doviz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\X\Desktop\b161200038\Doviz\Doviz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\X\Desktop\b161200038\Doviz\Doviz\obj\Debug\Doviz.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\b161200038\Doviz\Doviz\obj\Debug\Doviz.Dolar.resources
+C:\Users\X\Desktop\b161200038\Doviz\Doviz\obj\Debug\Doviz.DovizCevirici.resources
+C:\Users\X\Desktop\b161200038\Doviz\Doviz\obj\Debug\Doviz.Euro.resources
+C:\Users\X\Desktop\b161200038\Doviz\Doviz\obj\Debug\Doviz.Form1.resources
+C:\Users\X\Desktop\b161200038\Doviz\Doviz\obj\Debug\Doviz.GecmisKurlar.resources
+C:\Users\X\Desktop\b161200038\Doviz\Doviz\obj\Debug\Doviz.Grafik.resources
+C:\Users\X\Desktop\b161200038\Doviz\Doviz\obj\Debug\Doviz.Pound.resources
+C:\Users\X\Desktop\b161200038\Doviz\Doviz\obj\Debug\Doviz.Properties.Resources.resources
+C:\Users\X\Desktop\b161200038\Doviz\Doviz\obj\Debug\Doviz.csproj.GenerateResource.Cache
+C:\Users\X\Desktop\b161200038\Doviz1\Doviz\bin\Debug\Doviz.exe.config
+C:\Users\X\Desktop\b161200038\Doviz1\Doviz\bin\Debug\Doviz.exe
+C:\Users\X\Desktop\b161200038\Doviz1\Doviz\bin\Debug\Doviz.pdb
+C:\Users\X\Desktop\b161200038\Doviz1\Doviz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\X\Desktop\b161200038\Doviz1\Doviz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\X\Desktop\b161200038\Doviz1\Doviz\obj\Debug\Doviz.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\b161200038\Doviz1\Doviz\obj\Debug\Doviz.Dolar.resources
+C:\Users\X\Desktop\b161200038\Doviz1\Doviz\obj\Debug\Doviz.DovizCevirici.resources
+C:\Users\X\Desktop\b161200038\Doviz1\Doviz\obj\Debug\Doviz.Euro.resources
+C:\Users\X\Desktop\b161200038\Doviz1\Doviz\obj\Debug\Doviz.Form1.resources
+C:\Users\X\Desktop\b161200038\Doviz1\Doviz\obj\Debug\Doviz.GecmisKurlar.resources
+C:\Users\X\Desktop\b161200038\Doviz1\Doviz\obj\Debug\Doviz.Grafik.resources
+C:\Users\X\Desktop\b161200038\Doviz1\Doviz\obj\Debug\Doviz.Pound.resources
+C:\Users\X\Desktop\b161200038\Doviz1\Doviz\obj\Debug\Doviz.Properties.Resources.resources
+C:\Users\X\Desktop\b161200038\Doviz1\Doviz\obj\Debug\Doviz.csproj.GenerateResource.Cache
+C:\Users\X\Desktop\b161200038\Doviz1\Doviz\obj\Debug\Doviz.exe
+C:\Users\X\Desktop\b161200038\Doviz1\Doviz\obj\Debug\Doviz.pdb

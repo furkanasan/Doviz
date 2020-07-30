@@ -20,7 +20,7 @@ namespace Doviz
 
         private void lbl1950_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            OleDbConnection con = new OleDbConnection("Provider = Microsoft.ACE.OLEDB.12.0;Data Source = C:/Users/X/Desktop/data/EURO/1999-2009.xlsx;Extended Properties =\'Excel 12.0 Xml;HDR=YES\';");
+            OleDbConnection con = new OleDbConnection("Provider = Microsoft.ACE.OLEDB.12.0;Data Source = C:/Users/X/Desktop/b161200038/data/EURO/1999-2009.xlsx;Extended Properties =\'Excel 12.0 Xml;HDR=YES\';");
             con.Open();
             OleDbDataAdapter adapter = new OleDbDataAdapter("Select * from [EVDS$]", con);
             DataTable dt = new DataTable();
